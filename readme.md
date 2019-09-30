@@ -4,7 +4,7 @@ project requirements
 
 project installation 
 -------------------------------
-- git clone
+- git clone https://github.com/A-Sabry/blog-assignment.git
 
 - Composer install
  
